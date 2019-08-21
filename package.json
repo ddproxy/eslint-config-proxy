@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-entercom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Entercom/eslint-config-entercom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Entercom/eslint-config-entercom/issues"
+  },
+  "homepage": "https://github.com/Entercom/eslint-config-entercom#readme",
+  "peerDependencies": {
+    "eslint": ">=5",
+    "eslint-config-airbnb-base": ">=13",
+    "eslint-plugin-import": ">=2",
+    "eslint-plugin-mocha": ">=6",
+    "eslint-plugin-no-only-tests": ">=2"
+  }
+}
