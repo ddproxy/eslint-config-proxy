@@ -58,6 +58,14 @@ module.exports = {
       }
     ],
     camelcase: 0,
+    'array-bracket-newline': [
+      'error',
+      'consistent'
+    ],
+    'array-element-newline': [
+      'error',
+      'consistent'
+    ],
     'object-curly-newline': [
       'error',
       {
@@ -65,6 +73,22 @@ module.exports = {
       }
     ],
     'no-confusing-arrow': 0,
+    'no-console': [
+      'error',
+      {
+        allow: [
+          'warn',
+          'error',
+          'trace'
+        ]
+      }
+    ],
+    'no-param-reassign': [
+      'error',
+      {
+        props: false
+      }
+    ],
     'no-plusplus': 0,
     'no-restricted-syntax': [
       'error',
