@@ -41,8 +41,7 @@ module.exports = {
         code: 120,
         ignoreComments: true,
         ignoreUrls: true,
-        ignoreTemplateLiterals: true,
-        ignorePattern: '(^\\s*it\\(\\\'.+\\\',$)|(^const\\s\\w+\\s=\\srequire\\()'
+        ignoreTemplateLiterals: true
       }
     ],
     'comma-dangle': [
