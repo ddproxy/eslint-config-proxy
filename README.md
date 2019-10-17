@@ -7,7 +7,7 @@
 Install this configuration to your project
 
 ```
-npm install --save-dev Entercom/eslint-config-entercom#master
+npm install --save-dev entercom/eslint-config-entercom
 ```
 
 Install peer dependencies
@@ -21,7 +21,7 @@ Add configuration as an extends
 ```json
   "eslintConfig": {
     "extends": [
-      "entercom"
+      "@entercom/eslint-config-entercom"
     ]
   },
 ```
