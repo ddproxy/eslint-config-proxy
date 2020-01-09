@@ -1,6 +1,6 @@
 {
   "name": "@entercom/eslint-config-entercom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "*A biased but reasonable approach to JavaScript*",
   "main": "index.js",
   "scripts": {
