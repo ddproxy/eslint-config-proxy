@@ -6,13 +6,8 @@
 
 Install this configuration to your project
 
-```
+```sh
 npm install --save-dev entercom/eslint-config-entercom
-```
-
-Install peer dependencies
-```
-npm install --save-dev eslint-config-airbnb-base eslint-plugin-import eslint-plugin-mocha eslint-plugin-no-only-tests 
 ```
 
 Add configuration as an extends

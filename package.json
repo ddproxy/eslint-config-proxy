@@ -16,11 +16,11 @@
     "url": "https://github.com/Entercom/eslint-config-entercom/issues"
   },
   "homepage": "https://github.com/Entercom/eslint-config-entercom#readme",
-  "peerDependencies": {
-    "eslint": ">=5",
-    "eslint-config-airbnb-base": ">=13",
-    "eslint-plugin-import": ">=2",
-    "eslint-plugin-mocha": ">=6",
-    "eslint-plugin-no-only-tests": ">=2"
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-mocha": "^6.2.2",
+    "eslint-plugin-no-only-tests": "^2.4.0"
   }
 }
