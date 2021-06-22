@@ -1,5 +1,5 @@
 {
-  "name": "@entercom/eslint-config-entercom",
+  "name": "ddproxy/eslint-config-prody",
   "version": "1.0.3",
   "description": "*A biased but reasonable approach to JavaScript*",
   "main": "index.js",
@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Entercom/eslint-config-entercom.git"
+    "url": "git+https://github.com/ddproxy/eslint-config-prody.git"
   },
   "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Entercom/eslint-config-entercom/issues"
+    "url": "https://github.com/ddproxy/eslint-config-proxy/issues"
   },
-  "homepage": "https://github.com/Entercom/eslint-config-entercom#readme",
+  "homepage": "https://github.com/ddproxy/eslint-config-proxy#readme",
   "devDependencies": {
     "eslint": "^7.29.0",
     "eslint-config-airbnb-base": "^14.2.1",
