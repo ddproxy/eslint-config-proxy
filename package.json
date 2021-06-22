@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ddproxy/eslint-config-prody.git"
+    "url": "git+https://github.com/ddproxy/eslint-config-proxy.git"
   },
   "author": "",
   "bugs": {
