@@ -16,7 +16,7 @@ Add configuration as an extends
 ```json
   "eslintConfig": {
     "extends": [
-      "@ddproxy/eslint-config-proxy"
+      "eslint-config-proxy"
     ]
   },
 ```
