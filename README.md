@@ -1,4 +1,4 @@
-# Entercom JavaScript Style Guide
+# Biased JavaScript Style Guide
 
 *A biased but reasonable approach to JavaScript*
 
@@ -7,7 +7,7 @@
 Install this configuration to your project
 
 ```sh
-npm install --save-dev entercom/eslint-config-entercom
+npm install --save-dev eslint-config-proxy
 ```
 
 Add configuration as an extends
@@ -16,7 +16,7 @@ Add configuration as an extends
 ```json
   "eslintConfig": {
     "extends": [
-      "@entercom/eslint-config-entercom"
+      "@ddproxy/eslint-config-proxy"
     ]
   },
 ```
