@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-proxy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "*A biased but reasonable approach to JavaScript*",
   "main": "index.js",
   "scripts": {
